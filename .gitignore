@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+# Never commit real email passwords: keep App.config SmtpPassword empty in GitHub
